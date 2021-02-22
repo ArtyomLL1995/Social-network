@@ -1,0 +1,10 @@
+.preloaderContainer {
+    width: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+}
+.preloader {
+    width: 50px;
+    text-align: center;
+}

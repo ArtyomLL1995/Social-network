@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  grid-area: h;
+  background-color: #8179a3;
+  justify-content: flex-start;
+  }
+  .logo img {
+    width: 55px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    opacity: 70%;
+  }
+  .login {
+    margin-left: auto;
+  }
+  .login span {
+    color: white;
+    margin-right: 10px;
+  }
+  .login button {
+    margin: 5px;
+  }

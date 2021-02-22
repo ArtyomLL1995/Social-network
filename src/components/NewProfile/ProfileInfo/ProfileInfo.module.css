@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+}
+.profileInfoContainer {
+    display: flex;
+}
+.contacts {
+    flex-grow: 2;
+}
+.profileInfo ul li{
+list-style: none;
+}
